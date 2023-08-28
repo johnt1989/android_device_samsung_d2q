@@ -1,0 +1,14 @@
+[
+    {
+        "remote": "github",
+        "repository": "sm8150-samsung/android_kernel_samsung_sm8150-common",
+        "target_path": "device/kernel/sm8150-common",
+        "revision": "lineage-19.1",
+    },
+    {
+        "remote": "github",
+        "repository": "sm8150-samsung/android_device_samsung_sm8150-common",
+        "target_path": "device/samsung/sm8150-common"
+        "revision": "lineage-19.0",
+    }
+]
